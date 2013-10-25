@@ -1,0 +1,42 @@
+﻿body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 0px;
+}
+#userlogin_body
+{
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 150%;
+    background-color: #226cc5;
+    background-image: url('../Images/user_all_bg.gif');
+    background-repeat: repeat-x;
+    background-position: 50% top;
+    padding: 0px;
+    margin-top: 110px;
+}
+.titleBold12px
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.5px;
+}
+
+/* AutoComplete highlighted item */
+.autocomplete_highlightedListItem
+{
+    background-color: #91afdd;
+    color: #FFFFFF;
+    padding: 1px;
+}
+
+/* AutoComplete item*/
+.autocomplete_listItem
+{
+    color: windowtext;
+    background-color: window;
+    padding: 1px;
+}

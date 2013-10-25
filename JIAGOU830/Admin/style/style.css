@@ -1,0 +1,76 @@
+﻿body
+{
+    color: #333333;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#userlogin_body
+{
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 150%;
+    background-color: #226cc5;
+    background-image: url(../Images/user_all_bg.gif);
+    background-repeat: repeat-x;
+    background-position: 50% top;
+    margin-top: 110px;
+}
+.tbborder1 {
+	border: 1px solid #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	color: #333333;
+	text-decoration: none;
+}
+.tbNormal
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    color: #333333;
+    line-height: 1.5;
+}
+.tbbg
+{
+    background-color: #91afdd;
+    border: 1px solid #0066cc;
+}
+.tbTopBg
+{
+    font-size: 14px;
+    font-weight: bolder;
+    color: #ffffff;
+    vertical-align: middle;
+    text-indent: 6px;
+    background-repeat: repeat-x;
+    height: 25px;
+}
+.tbbg
+{
+    background-color: #91afdd;
+    border: 1px solid #0066cc;
+}
+.tbTopBg
+{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: middle;
+    text-indent: 6px;
+    background-repeat: repeat-x;
+    height: 25px;
+}
+.tbTitleBg
+{
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 150%;
+    background-color: #f7faff;
+}
+.tbSbg
+{
+    font-size: 12px;
+    line-height: 150%;
+    background-color: #ecf4ff;
+}
